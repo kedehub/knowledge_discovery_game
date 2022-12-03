@@ -14,8 +14,8 @@ The goal of Knowledge Discovery Game is to let people practice management of a [
 
 ## License
 
-Copyright © 2016-2018 Dimitar Bakardzhiev 
-Kanban Policy Game by Dimitar Bakardzhiev is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0. Based on Featureban (http://agendashift.com/featureban ) by Mike Burrows of Positive Incline Ltd
+Copyright © 2022 Dimitar Bakardzhiev 
+Knowledge Discovery Game by Dimitar Bakardzhiev is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0. Based on Featureban (http://agendashift.com/featureban ) by Mike Burrows of Positive Incline Ltd
 
 
 ## Customization
