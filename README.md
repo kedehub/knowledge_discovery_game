@@ -20,5 +20,5 @@ Kanban Policy Game by Dimitar Bakardzhiev is licensed under the Creative Commons
 
 ## Customization
 
-Kanban Policy Game is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Knowledge Discovery Game is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
 Customisation and translation is encouraged. To propose a change, create a pull request.
