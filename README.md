@@ -9,7 +9,7 @@ The goal of Knowledge Discovery Game is to let people practice management of a [
 ## Learning outcomes
 
 - People feel happy when the knowledge needed to e discovered is minimised.
-- A team is most productive then the average Knowledge Discovery Efficiency (KEDE) is maximised.
+- A team is most productive when the average Knowledge Discovery Efficiency (KEDE) is maximised.
 - It is possible to measure if people felt happy and were productive.
 
 ## License
