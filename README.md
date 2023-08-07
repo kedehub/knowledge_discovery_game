@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The Knowledge Discovery Game is a fun way to experience how a balance between individual capability and perceived task complexity affect [developer happines](https://docs.kedehub.io/kede/kede-on-developer-happiness.html) and then [productivity](https://docs.kedehub.io/kede/kede-productivity.html). 
+The Knowledge Discovery Game is a fun way to experience how a balance between individual capability and perceived task complexity affect [developer happiness](https://docs.kedehub.io/kede/kede-on-developer-happiness.html) and then [productivity](https://docs.kedehub.io/kede/kede-productivity.html). 
 The goal of Knowledge Discovery Game is to let people practice management of a [knowledge discovery process](https://docs.kedehub.io/kede/what-is-kede-derivation.html#knowledge-discovery-process).
 
 
 ## Learning outcomes
 
-- People feel happy when the knowledge needed to e discovered is minimised.
+- People feel happy when the knowledge needed to be discovered is minimised.
 - A team is most productive when the average Knowledge Discovery Efficiency (KEDE) is maximised.
 - It is possible to measure if people felt happy and were productive.
 
